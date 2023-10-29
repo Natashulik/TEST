@@ -2,6 +2,11 @@
 # dependencies
 /node_modules
 
+# compiled files
+/dist
+/build
+/out
+
 # IDE/Editor specific
 .vscode
 
